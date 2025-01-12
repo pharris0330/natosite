@@ -14,7 +14,7 @@ st.write(
     """
     ### NATO current events
     [Unmanned vessels in the Baltic!](https://maritime-executive.com/article/nato-wants-to-use-drone-boats-for-maritime-security-in-the-baltic) 
-    - **NATO Wants to Use Drone Boats for Maritime Security in the Baltic 
+    - NATO Wants to Use Drone Boats for Maritime Security in the Baltic 
     """
 )
 
