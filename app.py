@@ -12,7 +12,7 @@ st.write(
 
 st.write(
     """
-    ### CNO NAVPLAN 2024
+    ### CNO NAVPLAN 2024 (30 pages)
     - **Navigation Plan 2024 outlines the strategic guidance for the Navy, focusing on readiness for potential conflict with the People's Republic of China by 2027 and enhancing the Navy's long-term advantage.
     - **Project 33 is a key initiative to accelerate readiness efforts, with targets set to eliminate maintenance delays, scale robotic systems, create command centers, recruit and retain personnel, improve service quality, train for combat, and restore critical infrastructure.
     - **The plan emphasizes the importance of adapting to a changing security environment and technological advancements, with a focus on integrating robotic and autonomous systems, enhancing information warfare capabilities, and preparing for high-end warfare.
