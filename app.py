@@ -12,7 +12,8 @@ st.write(
 
 st.write(
     """
-    ###[CNO NAVY plan 2024](https://www.navy.mil/Leadership/Chief-of-Naval-Operations/CNO-NAVPLAN-2024/):** (30 pages)
+    ### CNO NAVY plan 2024
+    [CNO NAVY plan 2024](https://www.navy.mil/Leadership/Chief-of-Naval-Operations/CNO-NAVPLAN-2024/):** (30 pages)
     - **Navigation Plan 2024 outlines the strategic guidance for the Navy, focusing on readiness for potential conflict with the People's Republic of China by 2027 and enhancing the Navy's long-term advantage.
     - **Project 33 is a key initiative to accelerate readiness efforts, with targets set to eliminate maintenance delays, scale robotic systems, create command centers, recruit and retain personnel, improve service quality, train for combat, and restore critical infrastructure.
     - **The plan emphasizes the importance of adapting to a changing security environment and technological advancements, with a focus on integrating robotic and autonomous systems, enhancing information warfare capabilities, and preparing for high-end warfare.
@@ -25,8 +26,8 @@ st.write(
     
 st.write(    
     """
-    ###[North Atlantic Treaty](https://www.nato.int/nato_static_fl2014/assets/pdf/stock_publications/20120822_nato_treaty_en_light_2009.pdf): ** (18 pages)
-
+    ### North Atlantic Treaty
+    [North Atlantic Treaty](https://www.nato.int/nato_static_fl2014/assets/pdf/stock_publications/20120822_nato_treaty_en_light_2009.pdf): ** (18 pages)
     - **The North Atlantic Treaty was signed in Washington, D.C., on April 4, 1949.
     - **The Treaty emphasizes the principles of democracy, individual liberty, and the rule of law.
     - **The Parties commit to settling disputes peacefully and refraining from using force inconsistent with the UN Charter.
@@ -47,7 +48,7 @@ st.write(
 
 # Display a bulleted list with links
 st.markdown("""
-### Key NATO/NAY
+### Key NATO/NAVY websites
 - **[CNO NAVY plan 2024](https://docs.streamlit.io/library/api-reference/widgets):** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
 - **[NATO website2](https://docs.streamlit.io/library/api-reference/write-magic/st.markdown):** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
 - **[GO NAVY!!](https://docs.streamlit.io/library/api-reference/charts):** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
