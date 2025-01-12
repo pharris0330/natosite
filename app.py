@@ -12,6 +12,13 @@ st.write(
 
 st.write(
     """
+    ### NATO current events
+    [Unmanned vessels in the Baltic!](https://maritime-executive.com/article/nato-wants-to-use-drone-boats-for-maritime-security-in-the-baltic) NATO Wants to Use Drone Boats for Maritime Security in the Baltic 
+    """
+)
+
+st.write(
+    """
     ### CNO NAVY plan 2024
     [CNO NAVY plan 2024](https://www.navy.mil/Leadership/Chief-of-Naval-Operations/CNO-NAVPLAN-2024/) (30 pages)
     - **Navigation Plan 2024 outlines the strategic guidance for the Navy, focusing on readiness for potential conflict with the People's Republic of China by 2027 and enhancing the Navy's long-term advantage.
